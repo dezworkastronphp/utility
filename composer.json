@@ -1,11 +1,11 @@
 {
-    "name": "astronphp/utility",
+    "name": "dezworkastronphp/utility",
     "type": "library",
     "license": "MIT",
     "minimum-stability": "dev",
     "support": {
-        "issues": "https://github.com/astronphp/utility/issues",
-        "source": "https://github.com/astronphp/utility/"
+        "issues": "https://github.com/dezworkastronphp/utility/issues",
+        "source": "https://github.com/dezworkastronphp/utility/"
     },
     "require": {
         "moneyphp/money": "3.*"
