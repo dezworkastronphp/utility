@@ -1,0 +1,24 @@
+{
+    "name": "astronphp/utility",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/astronphp/utility/issues",
+        "source": "https://github.com/astronphp/utility/"
+    },
+    "require": {
+        "moneyphp/money": "3.*"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Astronphp\\Utility\\": [
+                "src/",
+                "tests/"
+            ]
+        }
+    }
+}
